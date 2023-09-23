@@ -1,0 +1,31 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(70,9,121,1) 35%, rgba(0,230,255,1) 100%);
+}
+
+#btn-logout {
+    position:absolute;
+    right: 0;
+    top: 0;
+}
+
+#username {
+    position:absolute;
+    top:10;
+    left:0;
+
+}
+
+#namer {
+    position:absolute;
+    top:40%;
+    right:35%;
+}
+
+.name {
+    width: 120px;
+    height: 60px;
+    padding: 5px;
+    border: 3px solid #0eecc3 ;
+    margin: 0;
+ }
